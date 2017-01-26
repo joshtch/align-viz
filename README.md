@@ -1,5 +1,3 @@
 # align-viz
 
-A one-file visualization in pure D3. See it at:
-
-https://joshtch.github.io/align-viz/
+A visualization written in pure D3.js. See it in action at: https://joshtch.github.io/align-viz/
